@@ -1,1 +1,4 @@
 /address/migrations/
+/address/__init__.py
+/test2/__init__.py
+/db.sqlite3
